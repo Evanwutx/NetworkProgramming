@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TCPIPSocketServer": {
+      "commandName": "Project",
+      "commandLineArgs": "11000"
+    }
+  }
+}

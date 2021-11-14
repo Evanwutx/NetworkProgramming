@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPIPSocketServer", "TCPIPSocketServer\TCPIPSocketServer.csproj", "{616BA4AC-3D49-4F66-B7F6-0ABF5153DC8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPIPSocketClient", "TCPIPSocketClient\TCPIPSocketClient.csproj", "{D7F9F473-9A9D-47E0-92B1-7531262DAB93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{616BA4AC-3D49-4F66-B7F6-0ABF5153DC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616BA4AC-3D49-4F66-B7F6-0ABF5153DC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616BA4AC-3D49-4F66-B7F6-0ABF5153DC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616BA4AC-3D49-4F66-B7F6-0ABF5153DC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F9F473-9A9D-47E0-92B1-7531262DAB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F9F473-9A9D-47E0-92B1-7531262DAB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F9F473-9A9D-47E0-92B1-7531262DAB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F9F473-9A9D-47E0-92B1-7531262DAB93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8580D67B-6B03-4671-B82C-F9D5E36FFD3D}
+	EndGlobalSection
+EndGlobal
